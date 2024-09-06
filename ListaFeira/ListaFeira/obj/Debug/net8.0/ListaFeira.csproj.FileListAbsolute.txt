@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\bin\Debug\net8.0\ListaFeira.exe
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\bin\Debug\net8.0\ListaFeira.deps.json
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\bin\Debug\net8.0\ListaFeira.runtimeconfig.json
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\bin\Debug\net8.0\ListaFeira.dll
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\bin\Debug\net8.0\ListaFeira.pdb
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\ListaFeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\ListaFeira.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\ListaFeira.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\ListaFeira.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\ListaFeira.dll
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\refint\ListaFeira.dll
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\ListaFeira.pdb
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\ListaFeira.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ESTUDOS\ListaFeira\ListaFeira\obj\Debug\net8.0\ref\ListaFeira.dll
